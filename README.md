@@ -8,8 +8,3 @@ Here are some ideas to get you started: -->
 - :ribbon: I’m currently working on System Analyst in Enterprises for Medical service. :ribbon:
 - :ribbon: I’m very proud of myself for beginning the process of becoming a software engineer. :ribbon:
 - :ribbon: I dont speak english very good, but i definitely understand, however i'm talk so good in portuguese. :ribbon:
-
-My profile in Instagram :ribbon: { https://www.instagram.com/shirleyignarski }
-
-My profile in Linkedin :ribbon: {https://www.linkedin.com/shirleyignarski}
-
