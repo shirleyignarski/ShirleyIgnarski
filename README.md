@@ -9,5 +9,7 @@ Here are some ideas to get you started: -->
 - :ribbon: I’m very proud of myself for beginning the process of becoming a software engineer. :ribbon:
 - :ribbon: I dont speak english very good, but i definitely understand, however i'm talk so good in portuguese. :ribbon:
 
-[Mi Perfil de Instgaram] {https://www.instagram.com/shirleyignarski/}
+[ My profile in Instagram ] { https://www.instagram.com/shirleyignarski }
+
+[My profile in Linkedin ]  {https://www.linkedin.com/shirleyignarski}
 
