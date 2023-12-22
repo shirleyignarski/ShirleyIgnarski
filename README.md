@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started: -->
 
-- I’m currently working on System Analyst in Enterprises for Medical service. :ribbon:
+- I’m currently working on Project Managemnet in Enterprises for Human Resource
 - I’m very proud of myself for beginning the process of becoming a software engineer. :ribbon:
 - I dont speak english very good, but i definitely understand, however i'm talk so good in portuguese. 🇧🇷 🇦🇷 
